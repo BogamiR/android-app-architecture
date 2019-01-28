@@ -9,3 +9,7 @@
 gradle/
 gradlew
 gradlew.bat
+/.idea/caches/build_file_checksum.ser
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
